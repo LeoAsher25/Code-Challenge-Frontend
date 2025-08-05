@@ -11,6 +11,7 @@ A JavaScript implementation showcasing multiple approaches to calculate the sum 
 ### Problem 2: Currency Swap UI
 
 A full-stack web application built with Next.js and TypeScript for swapping between different cryptocurrencies.
+**🌐 Live Demo**: [Swap Currency](https://code-challenge-frontend.vercel.app/)
 
 ### Problem 3: Wallet Balance Component
 
@@ -64,7 +65,7 @@ console.log(sum_to_n_b(10)); // Output: 55
 
 **Location**: `problem-2/`
 
-**🌐 Live Demo**: [abc.xyz](https://abc.xyz) _(link to be provided)_
+**🌐 Live Demo**: [Swap Currency](https://code-challenge-frontend.vercel.app/)
 
 ### Description
 
